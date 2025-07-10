@@ -1,0 +1,27 @@
+#div1 {
+    background-color: blueviolet;
+}
+
+#div2 {
+    background-color: brown;
+}
+
+.text1 {
+    color:cadetblue ;
+}
+.text2 {
+    color: chartreuse;
+}
+
+div {
+    /*selected div*/
+}
+
+* {
+    font-size: 100px;
+    /*selected all*/
+}
+
+div p {
+    color: chocolate;
+}
